@@ -1,3 +1,4 @@
 Marketing_Campagin_Dashboard
 
-![Screenshot (35)](https://github.com/user-attachments/assets/a8ed763b-d562-4e12-b0d6-c33bf0807c50)
+<img width="615" height="346" alt="Screenshot 2025-07-26 143105" src="https://github.com/user-attachments/assets/77a4f820-2045-45f2-9d53-012ac70b0ed6" />
+
