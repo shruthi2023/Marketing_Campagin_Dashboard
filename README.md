@@ -29,7 +29,22 @@ Here what’s covered?
 📌 Background created in Canva
 
 🎨 Icon Credit:
-Icons by Flaticon - www.flaticon.com
+
+Icon by Flaticon - www.flaticon.com
+
+◾  https://www.flaticon.com/free-icon/ad-network_4947095
+
+◾ https://www.flaticon.com/free-icon/choose_9001524
+
+◾ https://www.flaticon.com/free-icon/filter_5247223
+
+◾ https://www.flaticon.com/free-icon/stick-man_3239129
+
+◾ https://www.flaticon.com/free-icon/home_1946488
+
+◾ https://www.flaticon.com/free-icon/filter_11881248
+
+◾ https://www.flaticon.com/free-icon/clear-filter_6116617
 
 🎵 Music Credit:
  Background music: “Addict (Instrumental) - NEFFEX” from YouTube Audio Library
