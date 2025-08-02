@@ -5,6 +5,7 @@ Marketing_Campagin_Dashboard
 Develop a full marketing campaign analysis Dashboard using PowerBI
 
 Here what’s covered? 
+
 ⚡  Metrics: Ad Spend, Clicks, Click Through Rate(%), Conversion, Conversion Rate, Impressions and Cost Per 1000 impressions Metrics give a clear picture of how impactful ads and how spending every advertising.
 
 ⚡  Area Chart: Provides a clear view of returns on investment by showing how spend and conversion trend over time.
